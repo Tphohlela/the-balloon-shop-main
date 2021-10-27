@@ -1,3 +1,5 @@
+[![Build Status](https://app.travis-ci.com/Tphohlela/the-balloon-shop-main.svg?branch=master)](https://app.travis-ci.com/Tphohlela/the-balloon-shop-main)
+
 # The Balloon Shop
 
 A local party shop needs help to keep track of the balloons they are selling.
